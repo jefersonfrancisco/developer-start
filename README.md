@@ -1,4 +1,4 @@
-# developer-start for Ubuntu
+# Developer-start for Ubuntu
 
 Download / clone developer-start.sh and execute `sudo sh developer-start.sh`
 
